@@ -1,1 +1,2 @@
 # STEPin
+# Miniproject - "Meal-Magic"
