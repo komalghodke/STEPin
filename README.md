@@ -1,2 +1,2 @@
 # STEPin
-# Miniproject - "Meal-Magic"
+# MiniProject - "Meal-Magic"
