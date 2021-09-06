@@ -1,11 +1,14 @@
 # STEPin
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c9476ea464d941b3b1d7f406af0ca409)](https://app.codacy.com/gh/komalghodke/STEPin?utm_source=github.com&utm_medium=referral&utm_content=komalghodke/STEPin&utm_campaign=Badge_Grade_Settings)
-
 # MiniProject - "Meal-Magic"
-<I>"Meal-Magic" is a <B>Food Order Management system <br> <br> </B>
-  
-This Mini Project enables “Food Order Management”, to manage and maintain its available meal’s stock details and orders for online food delivery. The project consists of various functions which are displayed as choices to the management.
+<I>"Meal-Magic" is a <B>Food Order Management system <br> <br> </B> </I>
+
+> <h2>BADGES
+|Build|Unit Test|Codacy|[Git Inspector](using github.io option)|
+|:--:|:--:|:--:|:--:|
+|||[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c9476ea464d941b3b1d7f406af0ca409)](https://app.codacy.com/gh/komalghodke/STEPin?utm_source=github.com&utm_medium=referral&utm_content=komalghodke/STEPin&utm_campaign=Badge_Grade_Settings)||
+
+<I>This Mini Project enables “Food Order Management”, to manage and maintain its available meal’s stock details and orders for online food delivery. The project consists of various functions which are displayed as choices to the management.
 The functions are as follows:
 - Sign up & Login
 - Check for Menu Available
