@@ -1,4 +1,7 @@
 # STEPin
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c9476ea464d941b3b1d7f406af0ca409)](https://app.codacy.com/gh/komalghodke/STEPin?utm_source=github.com&utm_medium=referral&utm_content=komalghodke/STEPin&utm_campaign=Badge_Grade_Settings)
+
 # MiniProject - "Meal-Magic"
 <I>"Meal-Magic" is a <B>Food Order Management system <br> <br> </B>
   
