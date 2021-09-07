@@ -5,16 +5,16 @@
 This Mini Project enables “Food Order Management”, to manage and maintain its available meal’s stock details and orders for online food delivery. The project consists of various functions which are displayed as choices to the management.
 The functions are as follows:
 - Sign up & Login
-- Check for Menu Available
-- To Place orders
+- Check for Meal Menu Available
+- To Place the satisfied orders
 - Administrative tasks
-- Instant order preview <br>
+- Instant meal order preview <br>
 
-> Basically There are two interfaces, one being the customer interface and admin panel as the other. <br>
+> Basically There are two interfaces, one being the customer user interface and admin tasks panel as the other one. <br>
 --> Features provided for the customers : <br>
-* Displays the food item list along with their price, quantity and the stock available. <br>
-* The customer needs to enter the food serial number and the quantity desired thus displaying their total cart price. <br>
-* If they wish to order more, they could go back and choose again. Two way payment options are made available i.e Cash and Credit. This will take their card number and pin which will not be saved by us. <br>
+* Displays the meal item list along with their relative price, quantity and the meal stock available. <br>
+* The customer user needs to enter the food meal serial number and the required quantity desired thus displaying their paying total cart price for order. <br>
+* If they wish to order more meal, they could go back and choose again for that. Two way total payment options are made available i.e Cash & Credit. This will take their card number and pin which will not be saved by system. <br>
 --> Features provided for the admin panel : <br>
-* Check the total cash made today and view the details for the card payments. <br>
-* Add a food item or delete it from the menu. To ensure that the item is added accordingly, we have an option for the instant food list. Item counter displays the number of food items available.
+* Check the total money cash made today and view the details for the money card payments. <br>
+* Add a food meal item or delete it from the menu card. To ensure that the item is added accordingly, we have an option for the instant meal food list. Item counter that displays the number of food meal items available.
