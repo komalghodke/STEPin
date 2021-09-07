@@ -13,10 +13,16 @@ The functions are as follows:
 - Sign up & Login
 - Check for Menu Available
 - To Place orders
-- Administrative tasks
-- Instant order preview <br>
+- Instant order preview
+- Administrative tasks as mentioned below:<br>
+> <b>1. Check Total Cash earned <br>
+> 2. Add / Delete Meal Food <br>
+> 3. view Instant Food List <br>
+> 4. Item Counter <br>
+> 5. Backup Data <br>
+> 6. Instant meal order preview <br> </b>
 
-> Basically There are two interfaces, one being the customer interface and admin panel as the other. <br>
+Basically There are two interfaces, one being the customer interface and admin panel as the other. <br>
 --> Features provided for the customers : <br>
 * Displays the food item list along with their price, quantity and the stock available. <br>
 * The customer needs to enter the food serial number and the quantity desired thus displaying their total cart price. <br>
