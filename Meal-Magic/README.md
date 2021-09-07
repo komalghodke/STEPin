@@ -7,8 +7,14 @@ The functions are as follows:
 - Sign up & Login
 - Check for Meal Menu Available
 - To Place the satisfied orders
-- Administrative tasks
-- Instant meal order preview <br>
+- Instant meal order preview 
+- Administrative tasks as mentioned below:<br>
+> <b>1. Check Total Cash earned <br>
+> 2. Add / Delete Meal Food <br>
+> 3. view Instant Food List <br>
+> 4. Item Counter <br>
+> 5. Backup Data <br>
+> 6. Instant meal order preview <br> </b>
 
 > Basically There are two interfaces, one being the customer user interface and admin tasks panel as the other one. <br>
 --> Features provided for the customers : <br>
