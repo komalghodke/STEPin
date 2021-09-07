@@ -13,7 +13,7 @@ The functions are as follows:
 - Check for Meal Menu Available
 - To Place the satisfied orders
 - Administrative tasks <br>
-<B>1. Check Total Cash earned <br>
+<B>>1. Check Total Cash earned <br>
 > 2. Add / Delete Meal Food <br>
 > 3. view Instant Food List <br>
 > 4. Item Counter <br>
