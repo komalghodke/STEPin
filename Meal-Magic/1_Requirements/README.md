@@ -13,12 +13,12 @@ The functions are as follows:
 - Check for Meal Menu Available
 - To Place the satisfied orders
 - Administrative tasks
-- 1. Check Total Cash earned
-- 2. Add / Delete Meal Food
-- 3. view Instant Food List
-- 4. Item Counter
-- 5. Backup Data
-- 6. Instant meal order preview <br>
+> Check Total Cash earned
+> Add / Delete Meal Food
+> view Instant Food List
+> Item Counter
+> Backup Data
+> Instant meal order preview <br>
 
 > Basically There are two interfaces, one being the customer user interface and admin tasks panel as the other one. <br>
 --> Features provided for the customers : <br>
