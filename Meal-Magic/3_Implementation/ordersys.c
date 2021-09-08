@@ -155,7 +155,6 @@ int main(){
 					int fquantity;
 					int fdata;
 					float fprice;
-					int fposi;
 					int cs;
 
 
