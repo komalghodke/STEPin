@@ -7,6 +7,7 @@
 |Codacy|[Git Inspector]|
 |:--:|:--:|
 |[![Codacy Badge](https://app.codacy.com/project/badge/Grade/9d473d1df1734e48961d2810b62eb225)](https://www.codacy.com/gh/komalghodke/STEPin/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=komalghodke/STEPin&amp;utm_campaign=Badge_Grade)|![Code grade](https://www.code-inspector.com/project/27588/status/svg) <br>![Code Quality Score](https://www.code-inspector.com/project/27588/score/svg)|
+ [![CI](https://github.com/komalghodke/STEPin/actions/workflows/build.yml/badge.svg)](https://github.com/komalghodke/STEPin/actions/workflows/build.yml)
 
 <I>This Mini Project enables “Food Order Management”, to manage and maintain its available meal’s stock details and orders for online food delivery. The project consists of various functions which are displayed as choices to the management.
 The functions are as follows:
