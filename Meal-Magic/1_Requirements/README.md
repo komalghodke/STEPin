@@ -21,7 +21,6 @@
 
 ### Threats
 - there are many solutions in the market for food management
-- 
 ## 4W's and 1'H
 - **WHAT** : Meal Magic
 - **WHERE** : Used for Virtual Food Management
