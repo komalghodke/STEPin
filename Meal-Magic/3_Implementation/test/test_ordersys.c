@@ -8,27 +8,52 @@
  * @copyright Copyright (c) 2021
  * 
  */
-#include<stdio.h>
+
+#include <stdio.h>
+#include <string.h>
 #include<stdlib.h>
-#include<string.h>
 #include<windows.h>
 #include<time.h>
-#include "string.h"
-#include "unity.h"
-#include "unity_internals.h"
-#include "unity.h"
 #include "meal.h"
 #include "orderit.h"
+#include "unity.h"
+#include "unity_internals.h"
+#include "orderit.h"
+#include "ordersys.h"
 
 void setUp(){}
+/* Required by the unity test framework */
 void tearDown(){}
-Node starter, odr;
-float fdata=0.0;
-int quantity=0;
+
 void test_Clear_Screen(void){
   		TEST_ASSERT_EQUAL(0,Clear_Screen());
 }
 
+void test_sum(void){
+  int pwd[20] = "123321";
+  TEST_ASSERT_EQUAL(1,adminpanelchoice(2));
+    //TEST_ASSERT_EQUAL(0,flame_calculator(pwd, 123321));
+}
+
+
+
+int main()
+{
+	
+	UNITY_BEGIN();
+
+/* Run Test functions */
+  
+  RUN_TEST(test_ordersys);
+
+
+  /* Close the Unity Test Framework */
+  return UNITY_END();
+
+}
+
+
+/*
 void test_Add_Item(void){
     starter.start=NULL;
   		TEST_ASSERT_EQUAL(0, Add_Item(&starter,5,"Burger   ", 1, 100));
@@ -66,3 +91,4 @@ void main()
     return UNITY_END();
 
 }
+*/
