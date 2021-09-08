@@ -5,29 +5,6 @@
 • Operating System: Windows os/ linux <br>
 • IDE: Visual Studio Code <br>
 • Programming Language: C Programming <br>
-  
-> <h3> Introduction </br> </h3>
-This Mini Project enables “Food Order Management”, to manage and maintain its available meal’s stock details and orders for online food delivery. The project consists of various functions which are displayed as choices to the management.
-The functions are as follows:
-- Customer access & Admin Login
-- Check for Meal Menu Available
-- To Place the satisfied orders
-- Administrative tasks as mentioned below:<br>
-> <b>1. Check Total Cash earned <br>
-> 2. Add / Delete Meal Food <br>
-> 3. view Instant Food List <br>
-> 4. Item Counter <br>
-> 5. Backup Data <br>
-> 6. Instant meal order preview <br> </b>
-
-Basically There are two interfaces, one being the customer user interface and admin tasks panel as the other one. <br>
---> Features provided for the customers : <br>
-* Displays the meal item list along with their relative price, quantity and the meal stock available. <br>
-* The customer user needs to enter the food meal serial number and the required quantity desired thus displaying their paying total cart price for order. <br>
-* If they wish to order more meal, they could go back and choose again for that. Two way total payment options are made available i.e Cash & Credit. This will take their card number and pin which will not be saved by system. <br>
---> Features provided for the admin panel : <br>
-* Check the total money cash made today and view the details for the money card payments. <br>
-* Add a food meal item or delete it from the menu card. To ensure that the item is added accordingly, we have an option for the instant meal food list. Item counter that displays the number of food meal items available.
 
 ## SWOT Analysis
 ### Strengths
@@ -70,3 +47,27 @@ Basically There are two interfaces, one being the customer user interface and ad
 | HLR4_LLR1   |Customer - View Menu|
 | HLR4_LLR2   |Customer - View Previous Orders|
 | HLR4_LLR3   |Customer - Place order|
+
+# Detailed Introduction:
+> <h3> Introduction </br> </h3>
+This Mini Project enables “Food Order Management”, to manage and maintain its available meal’s stock details and orders for online food delivery. The project consists of various functions which are displayed as choices to the management.
+The functions are as follows:
+- Customer access & Admin Login
+- Check for Meal Menu Available
+- To Place the satisfied orders
+- Administrative tasks as mentioned below:<br>
+> <b>1. Check Total Cash earned <br>
+> 2. Add / Delete Meal Food <br>
+> 3. view Instant Food List <br>
+> 4. Item Counter <br>
+> 5. Backup Data <br>
+> 6. Instant meal order preview <br> </b>
+
+Basically There are two interfaces, one being the customer user interface and admin tasks panel as the other one. <br>
+--> Features provided for the customers : <br>
+* Displays the meal item list along with their relative price, quantity and the meal stock available. <br>
+* The customer user needs to enter the food meal serial number and the required quantity desired thus displaying their paying total cart price for order. <br>
+* If they wish to order more meal, they could go back and choose again for that. Two way total payment options are made available i.e Cash & Credit. This will take their card number and pin which will not be saved by system. <br>
+--> Features provided for the admin panel : <br>
+* Check the total money cash made today and view the details for the money card payments. <br>
+* Add a food meal item or delete it from the menu card. To ensure that the item is added accordingly, we have an option for the instant meal food list. Item counter that displays the number of food meal items available.
