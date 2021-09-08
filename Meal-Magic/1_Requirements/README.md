@@ -47,7 +47,7 @@
 | HLR4_LLR2   |Customer - View Previous Orders|
 | HLR4_LLR3   |Customer - Place order|
 
-# Detailed Introduction:
+# Introduction:
 > <h3> Introduction </br> </h3>
 This Mini Project enables “Food Order Management”, to manage and maintain its available meal’s stock details and orders for online food delivery. The project consists of various functions which are displayed as choices to the management.
 The functions are as follows:
